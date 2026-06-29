@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/bernardmarr/2026/06/27/gemini-35-flash-computer-use-everything-we-know-so-far/)"
+  ],
+  "design_plan": "rng_seed=42; audience=creators+coaches; AIDA=checked(attention hero, interest workflows, desire cache advantage, action CTA); hero_math=max_width1120px 2-3 lines; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-06-29T22:20:18.844398+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion-focused niche landing page for creators and coaches who want to turn calls, DMs, and workshops into repeatable content and operational workflows. The page reuses Super\u2019s proven comparison-page visual system and positions Super as the sharper alternative for personal AI agents that can operate computers and reuse a computer-use cache for repeated work. It grounds the market shift in recent reporting on Gemini 3.5 Flash\u2019s built\u2011in computer use and the growing security and realism gap between chat-only assistants and true computer-using agents."
+}
